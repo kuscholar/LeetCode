@@ -1,7 +1,3 @@
----
-description: https://github.com/kuscholar/Leetcode
----
-
 # Leetcode Solutions
 
 ## Leetcode

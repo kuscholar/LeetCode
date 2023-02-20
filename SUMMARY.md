@@ -16,4 +16,4 @@
   * [Day 20](6-binary-tree/day-20/README.md)
     * [654. Maximum Binary Tree](6-binary-tree/day-20/654.-maximum-binary-tree.md)
     * [617. Merge Two Binary Trees](6-binary-tree/day-20/617.-merge-two-binary-trees.md)
-    * [Page 2](6-binary-tree/day-20/page-2.md)
+    * [700. Search in a Binary Search Tree](6-binary-tree/day-20/700.-search-in-a-binary-search-tree.md)
