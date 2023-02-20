@@ -21,5 +21,5 @@
     * [98. Validate Binary Search Tree](6-binary-tree/day-20/98.-validate-binary-search-tree.md)
   * [Day 21](6-binary-tree/day-21/README.md)
     * [530. Minimum Absolute Difference in BST](6-binary-tree/day-21/530.-minimum-absolute-difference-in-bst.md)
-    * [Page 2](6-binary-tree/day-21/page-2.md)
+    * [501. Find Mode in Binary Search Tree](6-binary-tree/day-21/501.-find-mode-in-binary-search-tree.md)
     * [Page 3](6-binary-tree/day-21/page-3.md)
