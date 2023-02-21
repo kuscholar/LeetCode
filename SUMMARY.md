@@ -23,3 +23,7 @@
     * [530. Minimum Absolute Difference in BST](6-binary-tree/day-21/530.-minimum-absolute-difference-in-bst.md)
     * [501. Find Mode in Binary Search Tree](6-binary-tree/day-21/501.-find-mode-in-binary-search-tree.md)
     * [236. Lowest Common Ancestor of a Binary Tree](6-binary-tree/day-21/236.-lowest-common-ancestor-of-a-binary-tree.md)
+  * [Day 22](6-binary-tree/day-22/README.md)
+    * [235. Lowest Common Ancestor of a Binary Search Tree](6-binary-tree/day-22/235.-lowest-common-ancestor-of-a-binary-search-tree.md)
+    * [701. Insert into a Binary Search Tree](6-binary-tree/day-22/701.-insert-into-a-binary-search-tree.md)
+    * [450. Delete Node in a BST](6-binary-tree/day-22/450.-delete-node-in-a-bst.md)
