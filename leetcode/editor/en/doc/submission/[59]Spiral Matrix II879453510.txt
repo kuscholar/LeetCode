@@ -1,0 +1,28 @@
+class Solution:
+    def generateMatrix(self, n: int) -> List[List[int]]:
+        if n == 0:
+            return [[]]
+        startx = starty = 0
+        count = 1
+        result = [[0]*n for _ in range(n)]
+        for level in range(n//2):
+            print(level)
+            for i in range(startx, n-level-1):
+                result[startx][i] = count
+                count += 1
+            for i in range(starty, n-level-1):
+                result[i][n-level-1] = count
+                count += 1
+            for i in range(n-level-1, startx, -1):
+                result[n-level-1][i] = count
+                count += 1
+            for i in range(n-level-1, starty, -1):
+                result[i][startx] = count
+                count += 1
+            startx += 1
+            starty += 1
+        if result[startx][starty] == 0:
+            result[startx][starty] = n*n
+        return result
+# runtime:30 ms
+# memory:13.9 MB
