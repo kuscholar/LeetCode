@@ -22,3 +22,7 @@
     * [235. Lowest Common Ancestor of a Binary Search Tree](6-binary-tree/day-22/235.-lowest-common-ancestor-of-a-binary-search-tree.md)
     * [701. Insert into a Binary Search Tree](6-binary-tree/day-22/701.-insert-into-a-binary-search-tree.md)
     * [450. Delete Node in a BST](6-binary-tree/day-22/450.-delete-node-in-a-bst.md)
+  * [Day 23](6-binary-tree/day-23/README.md)
+    * [669. Trim a Binary Search Tree](6-binary-tree/day-23/669.-trim-a-binary-search-tree.md)
+    * [108. Convert Sorted Array to Binary Search Tree](6-binary-tree/day-23/108.-convert-sorted-array-to-binary-search-tree.md)
+  * [Summary](6-binary-tree/summary.md)
