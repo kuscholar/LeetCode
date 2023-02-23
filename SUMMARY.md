@@ -25,4 +25,5 @@
   * [Day 23](6-binary-tree/day-23/README.md)
     * [669. Trim a Binary Search Tree](6-binary-tree/day-23/669.-trim-a-binary-search-tree.md)
     * [108. Convert Sorted Array to Binary Search Tree](6-binary-tree/day-23/108.-convert-sorted-array-to-binary-search-tree.md)
+    * [538. Convert BST to Greater Tree](6-binary-tree/day-23/538.-convert-bst-to-greater-tree.md)
   * [Summary](6-binary-tree/summary.md)
