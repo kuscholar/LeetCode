@@ -30,3 +30,6 @@
 * [7 Backtracking](7-backtracking/README.md)
   * [Day 24](7-backtracking/day-24/README.md)
     * [77. Combinations](7-backtracking/day-24/77.-combinations.md)
+  * [Day 25](7-backtracking/day-25/README.md)
+    * [216. Combination Sum III](7-backtracking/day-25/216.-combination-sum-iii.md)
+    * [17. Letter Combinations of a Phone Number](7-backtracking/day-25/17.-letter-combinations-of-a-phone-number.md)

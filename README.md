@@ -65,8 +65,8 @@ Tracking of Leetcode problems
 
 #### 7. Backtracking
 
-| Date                                     | Solution                                                                                          |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| D[ay 24 2/23/23](7-backtracking/day-24/) | <ol start="77"><li><a href="7-backtracking/day-24/77.-combinations.md">Combinations</a></li></ol> |
-|                                          |                                                                                                   |
-|                                          |                                                                                                   |
+| Date                                     | Solution                                                                                                                                                                                                                                                               |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| D[ay 24 2/23/23](7-backtracking/day-24/) | <ol start="77"><li><a href="7-backtracking/day-24/77.-combinations.md">Combinations</a></li></ol>                                                                                                                                                                      |
+| [Day 25 2/24/23](7-backtracking/day-25/) | <ol start="216"><li><a href="7-backtracking/day-25/216.-combination-sum-iii.md">  Combination Sum III</a></li></ol><ol start="17"><li>L<a href="7-backtracking/day-25/17.-letter-combinations-of-a-phone-number.md">etter Combinations of a Phone Number</a></li></ol> |
+|                                          |                                                                                                                                                                                                                                                                        |
