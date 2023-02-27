@@ -55,30 +55,28 @@ class Solution:
         self.path = []
         self.result = []
         self.sum = 0
-        self.set = set()
+
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         # 1. parameters: candidates, target, return: None
         # 2. ending: self.sum > target
         # 3. each level: traverse
         if not candidates:
             return []
-        self.backtracking(candidates, target)
+        self.backtracking(candidates, target, 0)
         return self.result
 
-    def backtracking(self, candidates, target):
+    def backtracking(self, candidates, target, startIndex):
         if self.sum == target:
-            if self.path[:].sort() not in self.set:
-                self.result.append(self.path[:])
-                self.set.add(self.path[:].sort())
+            self.result.append(self.path[:])
             return
         if self.sum > target:
             return
-        print(self.path)
-        for candidate in candidates:
-            self.path.append(candidate)
-            self.sum += candidate
-            self.backtracking(candidates, target)
-            self.sum -= candidate
+
+        for i in range(startIndex, len(candidates)):
+            self.path.append(candidates[i])
+            self.sum += candidates[i]
+            self.backtracking(candidates, target, i)
+            self.sum -= candidates[i]
             self.path.pop()
 
 # leetcode submit region end(Prohibit modification and deletion)
