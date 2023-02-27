@@ -188,7 +188,7 @@ Space: O(level)
 
 e.g.: Binary Tree,
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 branch = 2, level = log2(n)
 
