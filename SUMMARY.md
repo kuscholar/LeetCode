@@ -33,3 +33,7 @@
   * [Day 25](7-backtracking/day-25/README.md)
     * [216. Combination Sum III](7-backtracking/day-25/216.-combination-sum-iii.md)
     * [17. Letter Combinations of a Phone Number](7-backtracking/day-25/17.-letter-combinations-of-a-phone-number.md)
+  * [Day 27](7-backtracking/day-27/README.md)
+    * [39. Combination Sum](7-backtracking/day-27/39.-combination-sum.md)
+    * [40. Combination Sum II](7-backtracking/day-27/40.-combination-sum-ii.md)
+    * [131. Palindrome Partitioning](7-backtracking/day-27/131.-palindrome-partitioning.md)
