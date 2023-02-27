@@ -157,3 +157,39 @@ void backtracking(参数) {
 最后我们讲到回溯法解决的问题都可以抽象为树形结构（N叉树），并给出了回溯法的模板。
 
 今天是回溯算法的第一天，按照惯例Carl都是先概述一波，然后在开始讲解具体题目，没有接触过回溯法的同学刚学起来有点看不懂很正常，后面和具体题目结合起来会好一些。
+
+
+
+BackTracking High Level: 求出所有解 all root-to-leaf path
+
+&#x20;   Step 1: 什么是一个解？
+
+&#x20;       One root to leaf path
+
+&#x20;   Step 2: 如何构建一个解？
+
+&#x20;       每一层干什么？
+
+&#x20;           加一个node
+
+&#x20;       分支是什么？
+
+&#x20;           left and right
+
+&#x20;       在哪收集解？
+
+&#x20;           leaf node
+
+&#x20;
+
+Time: O(branch ^ level)
+
+Space: O(level)
+
+e.g.: Binary Tree,
+
+![](../.gitbook/assets/image.png)
+
+branch = 2, level = log2(n)
+
+Time = O(2^(log2(n))) = O(n)&#x20;
