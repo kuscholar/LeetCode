@@ -41,3 +41,7 @@
     * [93. Restore IP Addresses](7-backtracking/day-28/93.-restore-ip-addresses.md)
     * [78. Subsets](7-backtracking/day-28/78.-subsets.md)
     * [90. Subsets II](7-backtracking/day-28/90.-subsets-ii.md)
+  * [Day 29](7-backtracking/day-29/README.md)
+    * [491. Non-decreasing Subsequences](7-backtracking/day-29/491.-non-decreasing-subsequences.md)
+    * [46. Permutations](7-backtracking/day-29/46.-permutations.md)
+    * [47. Permutations II](7-backtracking/day-29/47.-permutations-ii.md)
