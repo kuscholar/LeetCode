@@ -58,8 +58,23 @@ class Solution:
         self.backtracking(list(s), 0)
         return self.result
     def backtracking(self, s, startIndex):
-        if startIndex >= len(s):
-            self.result
-    def isValidIP(self, subString):
+        # if len(self.path) > 4:
+        #     return
+        if startIndex >= len(s) and len(self.path) == 4:
+            self.result.append('.'.join(self.path))
+            return
+        for i in range(startIndex, len(s)):
+            if self.isValidIP(s[startIndex:i+1]):
+                self.path.append(''.join(s[startIndex:i+1]))
+            else:
+                continue
+            self.backtracking(s, i+1)
+            self.path.pop()
 
+    def isValidIP(self, subString):
+        if len(subString) > 1 and subString[0] == '0':
+            return False
+        if len(subString) > 3:
+            return False
+        return 0 <= int(''.join(subString)) <= 255
 # leetcode submit region end(Prohibit modification and deletion)
