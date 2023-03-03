@@ -56,3 +56,7 @@
     * [455. Assign Cookies](8-greedy/day-31/455.-assign-cookies.md)
     * [376. Wiggle Subsequence](8-greedy/day-31/376.-wiggle-subsequence.md)
     * [53. Maximum Subarray](8-greedy/day-31/53.-maximum-subarray.md)
+  * [Day 32](8-greedy/day-32/README.md)
+    * [122. Best Time to Buy and Sell Stock II](8-greedy/day-32/122.-best-time-to-buy-and-sell-stock-ii.md)
+    * [55. Jump Game](8-greedy/day-32/55.-jump-game.md)
+    * [45. Jump Game II](8-greedy/day-32/45.-jump-game-ii.md)
