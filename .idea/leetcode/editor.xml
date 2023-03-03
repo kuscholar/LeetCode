@@ -14,6 +14,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[122]Best Time to Buy and Sell Stock II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[122]Best Time to Buy and Sell Stock II.md" />
+              <option name="frontendQuestionId" value="leetcode.com122" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[122]Best Time to Buy and Sell Stock II.py" />
+              <option name="titleSlug" value="best-time-to-buy-and-sell-stock-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[17]Letter Combinations of a Phone Number.py">
           <value>
             <LeetcodeEditor>
@@ -69,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[45]Jump Game II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[45]Jump Game II.md" />
+              <option name="frontendQuestionId" value="leetcode.com45" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[45]Jump Game II.py" />
+              <option name="titleSlug" value="jump-game-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[53]Maximum Subarray.py">
           <value>
             <LeetcodeEditor>
@@ -77,6 +99,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[53]Maximum Subarray.py" />
               <option name="titleSlug" value="maximum-subarray" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[55]Jump Game.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[55]Jump Game.md" />
+              <option name="frontendQuestionId" value="leetcode.com55" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[55]Jump Game.py" />
+              <option name="titleSlug" value="jump-game" />
             </LeetcodeEditor>
           </value>
         </entry>
