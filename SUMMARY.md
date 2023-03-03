@@ -51,3 +51,8 @@
     * [37. Sudoku Solver](7-backtracking/day-30/37.-sudoku-solver.md)
   * [Summary](7-backtracking/summary.md)
   * [Template](7-backtracking/template.md)
+* [8 Greedy](8-greedy/README.md)
+  * [Day 31](8-greedy/day-31/README.md)
+    * [455. Assign Cookies](8-greedy/day-31/455.-assign-cookies.md)
+    * [376. Wiggle Subsequence](8-greedy/day-31/376.-wiggle-subsequence.md)
+    * [53. Maximum Subarray](8-greedy/day-31/53.-maximum-subarray.md)
