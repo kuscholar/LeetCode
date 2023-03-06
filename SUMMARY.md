@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Leetcode Solutions](README.md)
+  * [PyCharm setup](readme/pycharm-setup.md)
 * [1 Arrays](1-arrays/README.md)
   * [Day 1](1-arrays/day-1.md)
 * [2 Linked List](2-linked-list.md)
@@ -60,3 +61,7 @@
     * [122. Best Time to Buy and Sell Stock II](8-greedy/day-32/122.-best-time-to-buy-and-sell-stock-ii.md)
     * [55. Jump Game](8-greedy/day-32/55.-jump-game.md)
     * [45. Jump Game II](8-greedy/day-32/45.-jump-game-ii.md)
+  * [Day 34](8-greedy/day-34/README.md)
+    * [1005. Maximize Sum Of Array After K Negations](8-greedy/day-34/1005.-maximize-sum-of-array-after-k-negations.md)
+    * [134. Gas Station](8-greedy/day-34/134.-gas-station.md)
+    * [135. Candy](8-greedy/day-34/135.-candy.md)
