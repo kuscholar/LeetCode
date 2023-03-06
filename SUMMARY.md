@@ -65,3 +65,7 @@
     * [1005. Maximize Sum Of Array After K Negations](8-greedy/day-34/1005.-maximize-sum-of-array-after-k-negations.md)
     * [134. Gas Station](8-greedy/day-34/134.-gas-station.md)
     * [135. Candy](8-greedy/day-34/135.-candy.md)
+  * [Day 35](8-greedy/day-35/README.md)
+    * [860. Lemonade Change](8-greedy/day-35/860.-lemonade-change.md)
+    * [406. Queue Reconstruction by Height](8-greedy/day-35/406.-queue-reconstruction-by-height.md)
+    * [452. Minimum Number of Arrows to Burst Balloons](8-greedy/day-35/452.-minimum-number-of-arrows-to-burst-balloons.md)
