@@ -3,6 +3,28 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[1005]Maximize Sum Of Array After K Negations.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[1005]Maximize Sum Of Array After K Negations.md" />
+              <option name="frontendQuestionId" value="leetcode.com1005" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[1005]Maximize Sum Of Array After K Negations.py" />
+              <option name="titleSlug" value="maximize-sum-of-array-after-k-negations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[134]Gas Station.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[134]Gas Station.md" />
+              <option name="frontendQuestionId" value="leetcode.com134" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[134]Gas Station.py" />
+              <option name="titleSlug" value="gas-station" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[108]Convert Sorted Array to Binary Search Tree.py">
           <value>
             <LeetcodeEditor>
