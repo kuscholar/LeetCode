@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[452]Minimum Number of Arrows to Burst Balloons.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[452]Minimum Number of Arrows to Burst Balloons.md" />
+              <option name="frontendQuestionId" value="leetcode.com452" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[452]Minimum Number of Arrows to Burst Balloons.py" />
+              <option name="titleSlug" value="minimum-number-of-arrows-to-burst-balloons" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[455]Assign Cookies.py">
           <value>
             <LeetcodeEditor>
