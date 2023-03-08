@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[435]Non-overlapping Intervals.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[435]Non-overlapping Intervals.md" />
+              <option name="frontendQuestionId" value="leetcode.com435" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[435]Non-overlapping Intervals.py" />
+              <option name="titleSlug" value="non-overlapping-intervals" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[452]Minimum Number of Arrows to Burst Balloons.py">
           <value>
             <LeetcodeEditor>
