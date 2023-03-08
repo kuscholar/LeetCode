@@ -157,6 +157,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[738]Monotone Increasing Digits.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[738]Monotone Increasing Digits.md" />
+              <option name="frontendQuestionId" value="leetcode.com738" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[738]Monotone Increasing Digits.py" />
+              <option name="titleSlug" value="monotone-increasing-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[77]Combinations.py">
           <value>
             <LeetcodeEditor>
