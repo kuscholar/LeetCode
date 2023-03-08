@@ -1,0 +1,31 @@
+# Day 36
+
+## 36 第八章 贪心算法
+
+●  435. 无重叠区间&#x20;
+
+●  763.划分字母区间&#x20;
+
+●  56. 合并区间&#x20;
+
+详细布置&#x20;
+
+今天的三道题目，都算是 重叠区间 问题，大家可以好好感受一下。 都属于那种看起来好复杂，但一看贪心解法，惊呼：这么巧妙！&#x20;
+
+还是属于那种，做过了也就会了，没做过就很难想出来。
+
+不过大家把如下三题做了之后， 重叠区间 基本上差不多了
+
+435\. 无重叠区间&#x20;
+
+[https://programmercarl.com/0435.%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.html](https://programmercarl.com/0435.%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.html)
+
+763.划分字母区间&#x20;
+
+[https://programmercarl.com/0763.%E5%88%92%E5%88%86%E5%AD%97%E6%AF%8D%E5%8C%BA%E9%97%B4.html](https://programmercarl.com/0763.%E5%88%92%E5%88%86%E5%AD%97%E6%AF%8D%E5%8C%BA%E9%97%B4.html)
+
+56\. 合并区间&#x20;
+
+本题相对来说就比较难了。
+
+[https://programmercarl.com/0056.%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.html](https://programmercarl.com/0056.%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.html)

@@ -69,3 +69,7 @@
     * [860. Lemonade Change](8-greedy/day-35/860.-lemonade-change.md)
     * [406. Queue Reconstruction by Height](8-greedy/day-35/406.-queue-reconstruction-by-height.md)
     * [452. Minimum Number of Arrows to Burst Balloons](8-greedy/day-35/452.-minimum-number-of-arrows-to-burst-balloons.md)
+  * [Day 36](8-greedy/day-36/README.md)
+    * [435. Non-overlapping Intervals](8-greedy/day-36/435.-non-overlapping-intervals.md)
+    * [763. Partition Labels](8-greedy/day-36/763.-partition-labels.md)
+    * [56. Merge Intervals](8-greedy/day-36/56.-merge-intervals.md)
