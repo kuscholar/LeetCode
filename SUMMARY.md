@@ -73,3 +73,7 @@
     * [435. Non-overlapping Intervals](8-greedy/day-36/435.-non-overlapping-intervals.md)
     * [763. Partition Labels](8-greedy/day-36/763.-partition-labels.md)
     * [56. Merge Intervals](8-greedy/day-36/56.-merge-intervals.md)
+  * [Day 37](8-greedy/day-37/README.md)
+    * [738. Monotone Increasing Digits](8-greedy/day-37/738.-monotone-increasing-digits.md)
+    * [968. Binary Tree Cameras](8-greedy/day-37/968.-binary-tree-cameras.md)
+  * [Summary](8-greedy/summary.md)
