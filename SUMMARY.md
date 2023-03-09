@@ -77,3 +77,8 @@
     * [738. Monotone Increasing Digits](8-greedy/day-37/738.-monotone-increasing-digits.md)
     * [968. Binary Tree Cameras](8-greedy/day-37/968.-binary-tree-cameras.md)
   * [Summary](8-greedy/summary.md)
+* [9 Dynamic Planning](9-dynamic-planning/README.md)
+  * [Day 38](9-dynamic-planning/day-38/README.md)
+    * [509. Fibonacci Number](9-dynamic-planning/day-38/509.-fibonacci-number.md)
+    * [70. Climbing Stairs](9-dynamic-planning/day-38/70.-climbing-stairs.md)
+    * [746. Min Cost Climbing Stairs](9-dynamic-planning/day-38/746.-min-cost-climbing-stairs.md)
