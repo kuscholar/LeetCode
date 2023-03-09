@@ -3,17 +3,6 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
-        <entry key="$PROJECT_DIR$/leetcode/editor/en/[968]Binary Tree Cameras.py">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[968]Binary Tree Cameras.md" />
-              <option name="frontendQuestionId" value="leetcode.com968" />
-              <option name="host" value="leetcode.com" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[968]Binary Tree Cameras.py" />
-              <option name="titleSlug" value="binary-tree-cameras" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[108]Convert Sorted Array to Binary Search Tree.py">
           <value>
             <LeetcodeEditor>
@@ -135,6 +124,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[509]Fibonacci Number.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[509]Fibonacci Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com509" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[509]Fibonacci Number.py" />
+              <option name="titleSlug" value="fibonacci-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[53]Maximum Subarray.py">
           <value>
             <LeetcodeEditor>
@@ -168,6 +168,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[70]Climbing Stairs.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[70]Climbing Stairs.md" />
+              <option name="frontendQuestionId" value="leetcode.com70" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[70]Climbing Stairs.py" />
+              <option name="titleSlug" value="climbing-stairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[738]Monotone Increasing Digits.py">
           <value>
             <LeetcodeEditor>
@@ -176,6 +187,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[738]Monotone Increasing Digits.py" />
               <option name="titleSlug" value="monotone-increasing-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[746]Min Cost Climbing Stairs.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[746]Min Cost Climbing Stairs.md" />
+              <option name="frontendQuestionId" value="leetcode.com746" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[746]Min Cost Climbing Stairs.py" />
+              <option name="titleSlug" value="min-cost-climbing-stairs" />
             </LeetcodeEditor>
           </value>
         </entry>
