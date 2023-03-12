@@ -3,28 +3,6 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
-        <entry key="$PROJECT_DIR$/leetcode/editor/en/[62]Unique Paths.py">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[62]Unique Paths.md" />
-              <option name="frontendQuestionId" value="leetcode.com62" />
-              <option name="host" value="leetcode.com" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[62]Unique Paths.py" />
-              <option name="titleSlug" value="unique-paths" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/en/[63]Unique Paths II.py">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[63]Unique Paths II.md" />
-              <option name="frontendQuestionId" value="leetcode.com63" />
-              <option name="host" value="leetcode.com" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[63]Unique Paths II.py" />
-              <option name="titleSlug" value="unique-paths-ii" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[108]Convert Sorted Array to Binary Search Tree.py">
           <value>
             <LeetcodeEditor>
@@ -66,6 +44,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[216]Combination Sum III.py" />
               <option name="titleSlug" value="combination-sum-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[343]Integer Break.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[343]Integer Break.md" />
+              <option name="frontendQuestionId" value="leetcode.com343" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[343]Integer Break.py" />
+              <option name="titleSlug" value="integer-break" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -253,6 +242,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[93]Restore IP Addresses.py" />
               <option name="titleSlug" value="restore-ip-addresses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[96]Unique Binary Search Trees.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[96]Unique Binary Search Trees.md" />
+              <option name="frontendQuestionId" value="leetcode.com96" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[96]Unique Binary Search Trees.py" />
+              <option name="titleSlug" value="unique-binary-search-trees" />
             </LeetcodeEditor>
           </value>
         </entry>
