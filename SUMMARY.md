@@ -82,3 +82,6 @@
     * [509. Fibonacci Number](9-dynamic-planning/day-38/509.-fibonacci-number.md)
     * [70. Climbing Stairs](9-dynamic-planning/day-38/70.-climbing-stairs.md)
     * [746. Min Cost Climbing Stairs](9-dynamic-planning/day-38/746.-min-cost-climbing-stairs.md)
+  * [Day 39](9-dynamic-planning/day-39/README.md)
+    * [62. Unique Paths](9-dynamic-planning/day-39/62.-unique-paths.md)
+    * [63. Unique Paths II](9-dynamic-planning/day-39/63.-unique-paths-ii.md)
