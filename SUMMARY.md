@@ -88,3 +88,7 @@
   * [Day 41](9-dynamic-planning/day-41/README.md)
     * [343. Integer Break](9-dynamic-planning/day-41/343.-integer-break.md)
     * [96. Unique Binary Search Trees](9-dynamic-planning/day-41/96.-unique-binary-search-trees.md)
+  * [Day 42](9-dynamic-planning/day-42/README.md)
+    * [01背包（二维）](9-dynamic-planning/day-42/01-bei-bao-er-wei.md)
+    * [01背包（一维）](9-dynamic-planning/day-42/01-bei-bao-yi-wei.md)
+    * [416. Partition Equal Subset Sum](9-dynamic-planning/day-42/416.-partition-equal-subset-sum.md)
