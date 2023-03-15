@@ -92,3 +92,5 @@
     * [01背包（二维）](9-dynamic-planning/day-42/01-bei-bao-er-wei.md)
     * [01背包（一维）](9-dynamic-planning/day-42/01-bei-bao-yi-wei.md)
     * [416. Partition Equal Subset Sum](9-dynamic-planning/day-42/416.-partition-equal-subset-sum.md)
+  * [Day 43](9-dynamic-planning/day-43/README.md)
+    * [Page 1](9-dynamic-planning/day-43/page-1.md)
