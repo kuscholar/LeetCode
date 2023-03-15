@@ -94,3 +94,6 @@
     * [416. Partition Equal Subset Sum](9-dynamic-planning/day-42/416.-partition-equal-subset-sum.md)
   * [Day 43](9-dynamic-planning/day-43/README.md)
     * [Page 1](9-dynamic-planning/day-43/page-1.md)
+  * [Day 44](9-dynamic-planning/day-44/README.md)
+    * [518. Coin Change II](9-dynamic-planning/day-44/518.-coin-change-ii.md)
+    * [377. Combination Sum IV](9-dynamic-planning/day-44/377.-combination-sum-iv.md)
