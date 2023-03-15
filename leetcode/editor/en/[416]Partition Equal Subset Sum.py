@@ -54,7 +54,20 @@ from collections import Counter
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        
+        # 1. dp array: max value with specified volume, index: choosing from nums[0] to nums[i], the max value at volume j
+        # 2. function: dp[i][j] = max(dp[i-1][j], dp[i-1][j-weight[i]] + value[i])
+        # 3. init: dp[i][0] = 0, dp[0][j] = nums[0] if nums[0] <= j
+        # 4. order: left to right, top to bottom
+        # 5. eg: []
+        if not nums:
+            return False
+        target = sum(nums)
+        if target % 2 != 0:
+            return False
+        target //= 2
+        dp = [[0]*(target+1)]*len(nums)
+        for j in range(1,target+1):
+            
 # leetcode submit region end(Prohibit modification and deletion)
 
 
