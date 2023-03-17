@@ -97,3 +97,7 @@
   * [Day 44](9-dynamic-planning/day-44/README.md)
     * [518. Coin Change II](9-dynamic-planning/day-44/518.-coin-change-ii.md)
     * [377. Combination Sum IV](9-dynamic-planning/day-44/377.-combination-sum-iv.md)
+  * [Day 45](9-dynamic-planning/day-45/README.md)
+    * [70. Climbing Stairs (Advanced)](9-dynamic-planning/day-45/70.-climbing-stairs-advanced.md)
+    * [322. Coin Change](9-dynamic-planning/day-45/322.-coin-change.md)
+    * [279. Perfect Squares](9-dynamic-planning/day-45/279.-perfect-squares.md)
