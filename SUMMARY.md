@@ -101,3 +101,4 @@
     * [70. Climbing Stairs (Advanced)](9-dynamic-planning/day-45/70.-climbing-stairs-advanced.md)
     * [322. Coin Change](9-dynamic-planning/day-45/322.-coin-change.md)
     * [279. Perfect Squares](9-dynamic-planning/day-45/279.-perfect-squares.md)
+  * [Day 48](9-dynamic-planning/day-48.md)
