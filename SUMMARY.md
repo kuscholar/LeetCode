@@ -102,3 +102,4 @@
     * [322. Coin Change](9-dynamic-planning/day-45/322.-coin-change.md)
     * [279. Perfect Squares](9-dynamic-planning/day-45/279.-perfect-squares.md)
   * [Day 48](9-dynamic-planning/day-48.md)
+  * [Day 52](9-dynamic-planning/day-52.md)
